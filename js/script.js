@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", function () {
       main.style.zIndex = "1";
       main.style.position = "relative";
     }, 1000); // durasi fade
-  }, 5500); // durasi animasi
+  }, 4000); // durasi animasi
 });
 
 const {
@@ -329,3 +329,4 @@ SOUNDS.TUNE.muted =
   SOUNDS.BLOW.muted =
   SOUNDS.ON.muted =
     false;
+
